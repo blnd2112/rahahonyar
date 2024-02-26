@@ -1,9 +1,7 @@
 import streamlit as st
 from PIL import Image
 from io import BytesIO
-import firebase_admin
-from firebase_admin import credentials
-from firebase_admin import db as firebase_db
+
 
 import base64
 import time
